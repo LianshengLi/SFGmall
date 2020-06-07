@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SFGmall.iml" filepath="$PROJECT_DIR$/.idea/SFGmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-interface/gmall-interface.iml" filepath="$PROJECT_DIR$/gmall-interface/gmall-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-consumer-service/order-consumer-service.iml" filepath="$PROJECT_DIR$/order-consumer-service/order-consumer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-provider-service/user-provider-service.iml" filepath="$PROJECT_DIR$/user-provider-service/user-provider-service.iml" />
+    </modules>
+  </component>
+</project>
